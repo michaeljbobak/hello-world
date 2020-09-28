@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Michael Bobak
+
+This is my first repository.
